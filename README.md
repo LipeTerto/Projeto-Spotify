@@ -36,3 +36,7 @@ O objetivo principal foi colocar em prática conceitos de **desenvolvimento Full
 ## 👨‍💻 Autor
 Desenvolvido por **Filipe Teixeira Terto**  
 Projeto criado durante a **Jornada Full Stack - Hashtag Treinamentos**
+
+## 🎥 Demonstração do Projeto
+
+![Demonstração do Projeto](./gif_projeto_spotify.gif)
